@@ -1,0 +1,5 @@
+Total de memoria RAM:
+MemTotal:        2010888 kB
+
+Fabricante del chassis:
+	Manufacturer: Oracle Corporation
